@@ -1,7 +1,7 @@
 # 🏪 Sistema de Controle de Estoque
 
 Um sistema simples e funcional para **gerenciar produtos, quantidades e valores em estoque**.  
-O projeto foi desenvolvido com o objetivo de praticar conceitos de programação orientada a objetos e manipulação de dados.
+Projeto desenvolvido para fixação baseado no aprendizado do curso do Alura.
 
 ---
 
@@ -10,8 +10,8 @@ O projeto foi desenvolvido com o objetivo de praticar conceitos de programação
 - 🧾 Cadastro de produtos (nome, preço, quantidade)  
 - 🔍 Consulta de produtos cadastrados  
 - ➕ Adição de estoque  
-- ➖ Remoção de estoque  
-- 💰 Cálculo automático do valor total em estoque  
+- ➖ Remoção de estoque
+- 🔄 Atualizar informações
 - 💾 Salvamento e leitura de dados em arquivo JSON  
 
 ---
@@ -31,6 +31,4 @@ O projeto foi desenvolvido com o objetivo de praticar conceitos de programação
 - [FastAPI](https://fastapi.tiangolo.com/) *(opcional, se tiver API)*  
 - [Uvicorn](https://www.uvicorn.org/) *(para rodar o servidor)*  
 
----
 
-## 📂 Estrutura do Projeto
